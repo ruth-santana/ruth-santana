@@ -4,7 +4,6 @@
 
 ## 🤝 Let’s Connect
 
-- [LinkedIn](https://linkedin.com/in/santanaruth)
 - [YouTube](https://youtube.com/@codandonosofa)
 - [Email](mailto:)
 
