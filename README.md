@@ -1,17 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/My%20YouTube%20Channel-c4302b?logo=youtube"></img>
+  <img src="https://img.shields.io/badge/Email-8A2BE2"></img>
+  <img src="https://img.shields.io/badge/CV-8A2BE2"></img>
+</p>
+
 # ✨ Hi, I'm Ruth Santana
 
-<video src="https://github.com/rayytsn9/ROBOTT/assets/79029536/62f541aa-aa8c-43f5-9ead-4b7a2e0d7c2a" width="300" height="200"></video>
-
-## 🤝 Let’s Connect
-
-- [YouTube](https://youtube.com/@codandonosofa)
-- [Email](mailto:)
-
-## 📄 Curriculum Vitae
-
-Looking for more details about my professional experience and education?
-
-📎 [Download my CV](https://nonexistantaddresshere.com/cv.pdf)
+Text here
 
 ## ✨ Fun Facts
 
