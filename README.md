@@ -1,16 +1,23 @@
-## Hi there 👋
+# ✨ Hi, I'm Ruth Santana
 
-<!--
-**ruthrepos/ruthrepos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Video]
 
-Here are some ideas to get you started:
+## 🤝 Let’s Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://linkedin.com/in/santanaruth)
+- [YouTube](https://youtube.com/@codandonosofa)
+- [Email](mailto:)
+
+## 📄 Curriculum Vitae
+
+Looking for more details about my professional experience and education?
+
+📎 [Download my CV](https://nonexistantaddresshere.com/cv.pdf)
+
+## ✨ Fun Facts
+
+- I love hiking and have climbed several mountains.
+- I'm a coffee enthusiast and enjoy trying new brewing methods.
+- I contribute to open-source projects in my free time.
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate on a project.
