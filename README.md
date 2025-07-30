@@ -1,10 +1,6 @@
 # ✨ Hi, I'm Ruth Santana
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/0kzQjhXa0GI" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<video src="https://github.com/rayytsn9/ROBOTT/assets/79029536/62f541aa-aa8c-43f5-9ead-4b7a2e0d7c2a" width="300" height="200" />
 
 ## 🤝 Let’s Connect
 
