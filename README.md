@@ -3,13 +3,22 @@
 
 <h1>Hi!</h1>
 
+```ts
+class Ruth {
+  role = "Dev";
 
+  builds = [
+    "tiny tools",
+    "cozy games"
+  ];
+
+  loves = [
+    "clean code",
+    "pixel art",
+    "joyful things"
+  ];
+}
 ```
-Full-time bug squasher 🐛, part-time pixel artist 🎨, and your go-to for comfy coding content ☕.
-```
-
-testing the capabilities of the markdown
-
 
 <hr />
 
