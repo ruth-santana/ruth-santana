@@ -4,17 +4,15 @@
   <img src="https://img.shields.io/badge/Resume-000000?logo=notion"></img>
 </p>
 
-## ✨ Hi, I'm Ruth Santana
+<img src="https://raw.githubusercontent.com/hercodebase/gitmon-server/refs/heads/feat/setup/src/example-gitmon-2.png" width="72" title="hover text" align="right">
 
-text here
+<h1>Hi!!</h1>
+
+```
+Full-time bug squasher 🐛, part-time pixel artist 🎨, and your go-to for comfy coding content ☕.
+```
+
+testing the capabilities of the markdown
+
 
 <hr />
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hercodebase/gitmon-server/refs/heads/feat/setup/src/example-gitmon-2.png" width="72" title="hover text">
-</p>
-<p align="center">
-  <a href="https://github.com/hercodebase/my-gitmon/issues/new?template=feed-gitmon.md">
-    <img src="https://raw.githubusercontent.com/hercodebase/gitmon-server/refs/heads/feat/setup/src/sprites/misc/feed-me.png" width="72" align="center">
-  </a>
-</p>
