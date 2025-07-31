@@ -1,7 +1,9 @@
 <p></p>
 <img src="https://raw.githubusercontent.com/hercodebase/gitmon-server/refs/heads/feat/setup/src/example-gitmon-2.png" width="72" title="hover text" align="right">
 
-<h1>About Me</h1>
+```ts
+// About Me
+```
 
 ```ts
 class Ruth {
