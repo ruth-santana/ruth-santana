@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/hercodebase/gitmon-server/refs/heads/feat/setup/src/example-gitmon-2.png" width="72" title="hover text" align="right">
 
 ```ts
-// About Me
+/* About Me */
 ```
 
 ```ts
