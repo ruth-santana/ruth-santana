@@ -8,15 +8,14 @@
 ```ts
 class Ruth extends Programmer {
   builds = [
-    "tiny tools",
-    "cozy games"
+    "handy tools",
+    "small projects",
+    "pixel art"
   ];
 
-  loves = [
-    "clean code",
-    "pixel art",
-    "joyful things"
-  ];
+  override about(): string {
+    return "writes code that works beautifully — and loves every minute of it";
+  }
 }
 ```
 
