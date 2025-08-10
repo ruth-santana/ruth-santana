@@ -1,29 +1,12 @@
-<p></p>
-<img src="https://raw.githubusercontent.com/hercodebase/gitmon-server/refs/heads/feat/setup/src/example-gitmon-2.png" width="72" title="hover text" align="right">
+# 🔬 Hello, and welcome
 
-```ts
-/* About Me */
-```
-
-```ts
-class Ruth extends Programmer {
-  builds = [
-    "handy tools",
-    "small projects",
-    "pixel art"
-  ];
-
-  override about(): string {
-    return "writes code that works beautifully — and loves every minute of it";
-  }
-}
-```
-
-<hr />
+<img src="https://cdn.devdojo.com/images/march2021/octocat-help.png" width="120" align="left"></img>
+I’m Ruth, a computer engineer working at the intersection of **graphics algorithms** and **software development**. My academic interests include **Human–Computer Interaction**, **procedural content generation**, and **user-centered design**. I actively contribute to open-source projects and pursue independent research exploring the synergy between technology, design, and usability to create meaningful digital experiences.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/YouTube%20Channel-c4302b?logo=youtube"></img>
-  <img src="https://img.shields.io/badge/My%20Games-FA5C5C?logo=itchdotio&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/YouTube-c4302b?logo=youtube"></img>
+  <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/Instagram-c13584?logo=instagram&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=white"></img>
   <img src="https://img.shields.io/badge/Bluesky-3454C2?logo=bluesky&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black"></img>
 </p>
