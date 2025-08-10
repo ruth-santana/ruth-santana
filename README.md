@@ -1,7 +1,7 @@
 # 🔬 Hello, and welcome
 
 <img src="https://github.com/user-attachments/assets/c6f26abd-ea62-4184-ae09-ff87288e07e6" width="120" align="left"></img>
-I’m Ruth, a computer engineer working at the intersection of **graphics algorithms** and **software development**. My academic interests include **Human–Computer Interaction** and **procedural content generation**. I actively contribute to open-source projects and pursue independent research exploring the synergy between technology, design, and usability to create meaningful digital experiences.
+I'm Ruth, a computer engineer with a strong interest in **computer graphics** and creating visually impressive applications. I work as a **mobile software engineer**, where I enjoy building polished, user-centered products. Outside of work, I contribute to open-source projects and share software development content across various video platforms.
 
 <p align="left">
   <a href="https://www.youtube.com/@ruthsoftware"><img src="https://img.shields.io/badge/YouTube-c4302b?logo=youtube"></img></a>
