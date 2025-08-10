@@ -1,6 +1,6 @@
 # 🔬 Hello, and welcome
 
-<img src="https://cdn.devdojo.com/images/march2021/octocat-help.png" width="120" align="left"></img>
+<img src="https://github.com/user-attachments/assets/c6f26abd-ea62-4184-ae09-ff87288e07e6" width="120" align="left"></img>
 I’m Ruth, a computer engineer working at the intersection of **graphics algorithms** and **software development**. My academic interests include **Human–Computer Interaction**, **procedural content generation**, and **user-centered design**. I actively contribute to open-source projects and pursue independent research exploring the synergy between technology, design, and usability to create meaningful digital experiences.
 
 <p align="left">
