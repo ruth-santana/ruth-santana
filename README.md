@@ -1,6 +1,6 @@
 # 🔬 Hello, and welcome
 
-<img src="https://github.com/user-attachments/assets/c6f26abd-ea62-4184-ae09-ff87288e07e6" width="120" align="left"></img>
+<img src="https://images.emojiterra.com/microsoft/fluent-emoji/15.1/1024px/2764_color.png" width="90" align="left"></img>
 I'm Ruth, a **computer engineering undergraduate** and software developer. Outside of work, I enjoy contributing to open-source projects, building small tools, and writing about the things I learn along the way.
 
 <p align="left">
