@@ -1,12 +1,12 @@
 # 🔬 Hello, and welcome
 
 <img src="https://github.com/user-attachments/assets/c6f26abd-ea62-4184-ae09-ff87288e07e6" width="120" align="left"></img>
-I'm Ruth, a computer engineering undergraduate with a strong interest in **computer graphics** and creating visually impressive applications. I work as a **mobile software engineer**, where I enjoy building polished, user-centered products. Outside of work, I contribute to open-source projects and share software development content across various video platforms.
+I'm Ruth, a **computer engineering undergraduate** and software developer. Outside of work, I enjoy contributing to open-source projects, building small tools, and writing about the things I learn along the way.
 
 <p align="left">
   <a href="https://www.youtube.com/@ruthsoftware"><img src="https://img.shields.io/badge/YouTube-c4302b?logo=youtube"></img></a>
-  <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white"></img>
+  <a href="https://computerengineeringlogs.wordpress.com"><img src="https://img.shields.io/badge/Medium-black?logo=medium"></img></a>
+  <a href="https://computerengineeringlogs.wordpress.com"><img src="https://img.shields.io/badge/Bluesky-1684FF?logo=bluesky&logoColor=white"></img></a>
   <img src="https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=white"></img>
   <a href="https://lattes.cnpq.br/2790676618172783"><img src="https://img.shields.io/badge/Lattes-3454C2?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iNDguMDAwMDAwcHQiIGhlaWdodD0iNTcuMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCA0OC4wMDAwMDAgNTcuMDAwMDAwIgogcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCI+Cgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCw1Ny4wMDAwMDApIHNjYWxlKDAuMTAwMDAwLC0wLjEwMDAwMCkiCmZpbGw9IndoaXRlIiBzdHJva2U9Im5vbmUiPgo8cGF0aCBkPSJNMTE3IDU1NiBjLTQ5IC0xOCAtNjQgLTMyIC04OSAtNzkgLTE2IC0zMyAtMTkgLTU1IC0xNiAtMTE5IDIgLTUwIDgKLTgyIDE2IC04NyAxNCAtOCAxNzIgLTM0IDE3NyAtMjkgMiAyIC01IDI4IC0xNSA1OCAtMjYgNzMgLTI2IDE1MSAtMSAxODEgMTcKMjIgMjcgMjQgMTAwIDI0IDQ1IDAgODEgMyA4MSA3IDAgMTIgLTEwNCA0NiAtMTYwIDUyIC0zNiA0IC02OCAxIC05MyAtOHoiLz4KPHBhdGggZD0iTTIxNSA0NDYgYy0yNCAtMTcgLTI0IC03MCAxIC05NyAzMiAtMzYgODAgLTUyIDExMSAtMzcgNTggMjkgNTUgODQKLTYgMTI1IC0zOCAyNiAtNzggMjkgLTEwNiA5eiIvPgo8cGF0aCBkPSJNMzk3IDM4MCBjNiAtNTcgNSAtNjAgLTI5IC05NCAtMTggLTE4IC01MiAtMzkgLTczIC00NSAtNTEgLTE0IC0xNjkKLTE0IC0yMTggMCAtMjEgNiAtNDIgOSAtNDYgNyAtNyAtMiA3MiAtMjMyIDg1IC0yNDYgNSAtNyAxMzEgMzAgMTgwIDUyIDE1NAo3MSAyMTcgMjE0IDE0NSAzMjggLTQzIDY3IC01MCA2NyAtNDQgLTJ6Ii8+CjwvZz4KPC9zdmc+Cg==&logoColor=white"></img></a>
- <a href="https://computerengineeringlogs.wordpress.com"><img src="https://img.shields.io/badge/WordPress-00749C?logo=wordpress"></img></a>
 </p>
