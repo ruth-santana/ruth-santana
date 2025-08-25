@@ -1,5 +1,5 @@
 # 🔬 Hello, and welcome
-I'm Ruth, a **computer engineering undergraduate** and software developer. Outside of work, I enjoy contributing to open-source projects, building small tools, and writing about the things I learn along the way.
+I'm Ruth, a **computer engineering** undergraduate and **software developer**. I create free tools for developers, publish them on Itch.io, and write articles about the process behind them.
 
 <p align="left">
   <a href="https://computerengineeringlogs.wordpress.com"><img src="https://img.shields.io/badge/Medium-black?logo=medium"></img></a>
