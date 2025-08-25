@@ -1,5 +1,4 @@
 # 🔬 Hello, and welcome
-<img src="https://avatars.githubusercontent.com/u/188722611" width="109" align="left"></img>
 I'm Ruth, a **computer engineering undergraduate** and software developer. Outside of work, I enjoy contributing to open-source projects, building small tools, and writing about the things I learn along the way.
 
 <p align="left">
