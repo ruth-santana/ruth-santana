@@ -1,4 +1,4 @@
-# 🔬 Hello, and welcome
+# Hello!
 I'm Ruth, a **computer engineering** undergraduate and **software developer**. I create free tools for developers, publish them on Itch.io, and write articles about the process behind them.
 
 <p align="left">
@@ -8,3 +8,7 @@ I'm Ruth, a **computer engineering** undergraduate and **software developer**. I
   <a href="https://bsky.app/profile/ruth-santana.itch.io"><img src="https://img.shields.io/badge/Bluesky-1684FF?logo=bluesky&logoColor=white"></img></a>
   <a href="https://buymeacoffee.com/ruthsantana"><img src="https://img.shields.io/badge/Donate-FFDD00?logo=buymeacoffee&logoColor=black"></img></a>
 </p>
+<div align="left">
+<img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="40" />
+<img src="https://hatscripts.github.io/circle-flags/flags/il.svg" width="40" />
+</div>
